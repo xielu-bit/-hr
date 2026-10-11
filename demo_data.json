@@ -1,0 +1,1283 @@
+{
+ "meta": {
+  "name": "招聘复盘官 · 演示数据集",
+  "description": "全部为 AI 虚构数据，共 60 份简历，含'历史筛选结果'标签。公司名、人名、联系方式均为虚构。",
+  "generated_by": "AI 生成，用于演示招聘复盘方法论，不指向任何真实个人或公司"
+ },
+ "resumes": [
+  {
+   "id": "策划01",
+   "position": "策划",
+   "label": "通过",
+   "name": "梁军",
+   "content": "# 梁军 · 应聘：游戏策划（2027届）\n- 电话：18018159083\n- 邮箱：user14914@163.com\n- 意向城市：武汉\n\n## 教育背景\n- **同济大学** · 软件工程（本科 2022-2026）· GPA 3.2/4.0（前 50%）\n\n## 游戏经历与作品\n- **Game Jam 作品《夜航星》**\n  - 2025 CiGA Game Jam 48小时极限开发，担任主策划\n- **《马里奥制造》关卡设计**\n  - 创作关卡 10+ 个，累计游玩 5 万次，多次入选精选列表\n\n## 技能\n- Unity 基础 / Axure / Figma / Tableau",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.2,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 2,
+    "portfolio_score": 5,
+    "skills_match": "中",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划02",
+   "position": "策划",
+   "label": "通过",
+   "name": "孙洋",
+   "content": "# 孙洋 · 应聘：游戏策划（2027届）\n- 电话：19935181909\n- 邮箱：user36995@qq.com\n- 意向城市：南京\n\n## 教育背景\n- **福州大学** · 计算机科学与技术（本科 2022-2026）· GPA 3.4/4.0（前 30%）\n- 相关课程：操作系统 成绩优异\n\n## 游戏经历与作品\n- **个人游戏评测专栏**\n  - 运营一年，产出深度长文 25 篇，单篇最高阅读 4 万\n- **校园电竞赛事策划**\n  - 策划并落地 3 场 200+ 人参与的电竞赛事\n\n## 技能\n- SQL 基础 / Tableau / Excel 数据分析 / Xmind\n\n## 自我评价\n- 相信游戏是规则的艺术，享受从 0 到 1 搭建系统的过程\n- 习惯用文档沉淀设计思路，每周坚持体验 2 款新游戏并写拆解笔记",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.4,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 2,
+    "portfolio_score": 4,
+    "skills_match": "中",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划03",
+   "position": "策划",
+   "label": "通过",
+   "name": "陈芊语",
+   "content": "# 陈芊语 · 应聘：游戏策划（2026届）\n- 电话：19555979711\n- 邮箱：user45381@qq.com\n- 意向城市：北京\n\n## 教育背景\n- **广东工业大学** · 心理学（本科 2022-2026）· GPA 3.6/4.0（前 40%）\n\n## 实习经历\n- **白泽游戏 · 策划实习生**\n  - 参与二次元 RPG 世界观设定整理与任务配置\n  - 协助整理 3 万字设定文档\n\n## 游戏经历与作品\n- **个人游戏评测专栏**\n  - 运营一年，产出深度长文 25 篇，单篇最高阅读 4 万\n- **原创桌游《迷雾商队》**\n  - 独立完成从核心机制到 200 张卡牌的全部设计\n  - 校内桌游社年度销量第一，三次加印\n\n## 技能\n- Xmind / SQL 基础 / Axure / Excel 数据分析 / 文案撰写\n\n## 自我评价\n- 相信游戏是规则的艺术，享受从 0 到 1 搭建系统的过程",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.6,
+    "major_match": "低",
+    "internship_count": 1,
+    "internship_relevant": "垂直",
+    "portfolio_count": 2,
+    "portfolio_score": 4,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）",
+     "有游戏公司同岗位实习经历"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划04",
+   "position": "策划",
+   "label": "通过",
+   "name": "徐沐宸",
+   "content": "# 徐沐宸 · 应聘：游戏策划（2026届）\n- 电话：18842684656\n- 邮箱：user40245@163.com\n- 意向城市：北京\n\n## 教育背景\n- **西安电子科技大学** · 市场营销（本科 2022-2026）· GPA 3.2/4.0（前 40%）\n\n## 游戏经历与作品\n- **Game Jam 作品《夜航星》**\n  - 2025 CiGA Game Jam 48小时极限开发，担任主策划\n  - 完成核心玩法 loop、数值框架与新手引导设计\n  - 团队4人，作品获站点人气前三\n\n## 技能\n- SQL 基础 / Axure / Figma / Excel 数据分析 / Xmind\n\n## 自我评价\n- 习惯用文档沉淀设计思路，每周坚持体验 2 款新游戏并写拆解笔记\n- 擅长把玩家反馈翻译成可执行的设计调整",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.2,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 5,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划05",
+   "position": "策划",
+   "label": "通过",
+   "name": "曾嘉琪",
+   "content": "# 曾嘉琪 · 应聘：游戏策划（2026届）\n- 电话：13313721590\n- 邮箱：user23419@163.com\n- 意向城市：重庆\n\n## 教育背景\n- **杭州电子科技大学** · 软件工程（本科 2022-2026）· GPA 3.1/4.0（前 30%）\n\n## 实习经历\n- **幻翼工作室 · 运营策划实习**\n  - 设计暑期活动'航海远征'，活动期间 DAU 提升 22%\n  - 输出复盘报告，被组内作为模板推广\n\n## 游戏经历与作品\n- **《马里奥制造》关卡设计**\n  - 创作关卡 10+ 个，累计游玩 5 万次，多次入选精选列表\n- **Game Jam 作品《夜航星》**\n  - 2025 CiGA Game Jam 48小时极限开发，担任主策划\n\n## 技能\n- 文案撰写 / Excel 数据分析 / Axure / Tableau / Unity 基础\n\n## 自我评价\n- 相信游戏是规则的艺术，享受从 0 到 1 搭建系统的过程\n- 擅长把玩家反馈翻译成可执行的设计调整",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.1,
+    "major_match": "高",
+    "internship_count": 1,
+    "internship_relevant": "垂直",
+    "portfolio_count": 2,
+    "portfolio_score": 5,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）",
+     "有游戏公司同岗位实习经历"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划06",
+   "position": "策划",
+   "label": "通过",
+   "name": "徐晚晴",
+   "content": "# 徐晚晴 · 应聘：游戏策划（2026届）\n- 电话：13385280841\n- 邮箱：user44224@126.com\n- 意向城市：深圳\n\n## 教育背景\n- **苏州大学** · 数字媒体技术（本科 2022-2026）· GPA 3.7/4.0（前 30%）\n\n## 游戏经历与作品\n- **原创桌游《迷雾商队》**\n  - 独立完成从核心机制到 200 张卡牌的全部设计\n  - 校内桌游社年度销量第一，三次加印\n- **独立 Roguelike 卡牌 Demo《深渊牌局》**\n  - 独立完成 120+ 张卡牌设计与平衡性迭代，共 8 个版本\n  - itch.io 上线，累计下载 3000+，好评率 92%\n\n## 技能\n- Excel 数据分析 / Unity 基础 / Tableau / Figma\n\n## 自我评价\n- 擅长把玩家反馈翻译成可执行的设计调整",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.7,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 2,
+    "portfolio_score": 5,
+    "skills_match": "中",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划07",
+   "position": "策划",
+   "label": "通过",
+   "name": "宋沐宸",
+   "content": "# 宋沐宸 · 应聘：游戏策划（2026届）\n- 电话：17513137353\n- 邮箱：user73262@126.com\n- 意向城市：重庆\n\n## 教育背景\n- **西南交通大学** · 计算机科学与技术（本科 2022-2026）· GPA 3.8/4.0（前 20%）\n- 相关课程：概率论 成绩优异\n\n## 游戏经历与作品\n- **校园电竞赛事策划**\n  - 策划并落地 3 场 200+ 人参与的电竞赛事\n- **原创桌游《迷雾商队》**\n  - 独立完成从核心机制到 200 张卡牌的全部设计\n  - 校内桌游社年度销量第一，三次加印\n\n## 技能\n- Excel 数据分析 / Tableau / Figma / Unity 基础 / Xmind / Axure",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.8,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 2,
+    "portfolio_score": 4,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划08",
+   "position": "策划",
+   "label": "通过",
+   "name": "吴清让",
+   "content": "# 吴清让 · 应聘：游戏策划（2026届）\n- 电话：18528820018\n- 邮箱：user28251@qq.com\n- 意向城市：成都\n\n## 教育背景\n- **上海理工大学** · 工商管理（本科 2022-2026）· GPA 3.1/4.0（前 50%）\n\n## 游戏经历与作品\n- **个人游戏评测专栏**\n  - 运营一年，产出深度长文 25 篇，单篇最高阅读 4 万\n  - 建立'系统拆解—体验归因'分析框架，覆盖 12 个品类\n\n## 技能\n- Excel 数据分析 / Unity 基础 / SQL 基础 / Xmind / 文案撰写 / Tableau\n\n## 自我评价\n- 相信游戏是规则的艺术，享受从 0 到 1 搭建系统的过程",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.1,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 4,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划09",
+   "position": "策划",
+   "label": "通过",
+   "name": "司马勇",
+   "content": "# 司马勇 · 应聘：游戏策划（2026届）\n- 电话：19288072902\n- 邮箱：user32589@163.com\n- 意向城市：西安\n\n## 教育背景\n- **浙江工业大学** · 市场营销（本科 2022-2026）· GPA 3.3/4.0（前 40%）\n\n## 游戏经历与作品\n- **原创桌游《迷雾商队》**\n  - 独立完成从核心机制到 200 张卡牌的全部设计\n  - 校内桌游社年度销量第一，三次加印\n- **《马里奥制造》关卡设计**\n  - 创作关卡 10+ 个，累计游玩 5 万次，多次入选精选列表\n  - 总结出一套'教学式难度曲线'设计方法\n\n## 技能\n- Tableau / Unity 基础 / Axure / SQL 基础 / 文案撰写 / Excel 数据分析",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.3,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 2,
+    "portfolio_score": 5,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划01",
+   "position": "策划",
+   "label": "未通过",
+   "name": "陈沐宸",
+   "content": "# 陈沐宸 · 应聘：游戏策划（2027届）\n- 电话：17989834788\n- 邮箱：user72657@126.com\n- 意向城市：成都\n\n## 教育背景\n- **复旦大学** · 汉语言文学（本科 2022-2026）· GPA 3.9/4.0（前 40%）\n- 相关课程：游戏心理学 成绩优异\n\n## 技能\n- Tableau / Figma / Excel 数据分析 / Axure / 文案撰写",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.9,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 1,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划02",
+   "position": "策划",
+   "label": "未通过",
+   "name": "吴一诺",
+   "content": "# 吴一诺 · 应聘：游戏策划（2027届）\n- 电话：15427316723\n- 邮箱：user31163@126.com\n- 意向城市：武汉\n\n## 教育背景\n- **浙江大学** · 心理学（本科 2022-2026）· GPA 3.8/4.0（前 30%）\n\n## 实习经历\n- **优品电商 · 市场实习**\n  - 协助 618 大促页面策划与数据复盘\n\n## 技能\n- 文案撰写 / Axure / Xmind / SQL 基础 / Excel 数据分析\n\n## 自我评价\n- 性格活泼开朗，沟通能力良好，希望在游戏行业长期发展",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.8,
+    "major_match": "低",
+    "internship_count": 1,
+    "internship_relevant": "相关",
+    "portfolio_count": 0,
+    "portfolio_score": 1,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划03",
+   "position": "策划",
+   "label": "未通过",
+   "name": "陈艳",
+   "content": "# 陈艳 · 应聘：游戏策划（2026届）\n- 电话：15114402426\n- 邮箱：user98601@qq.com\n- 意向城市：武汉\n\n## 教育背景\n- **北京邮电大学** · 软件工程（本科 2022-2026）· GPA 3.9/4.0（前 30%）\n- 相关课程：游戏设计基础 成绩优异\n\n## 实习经历\n- **优品电商 · 市场实习**\n  - 协助 618 大促页面策划与数据复盘\n\n## 技能\n- Figma / Xmind / Axure / Tableau / Excel 数据分析 / 文案撰写\n\n## 自我评价\n- 性格活泼开朗，沟通能力良好，希望在游戏行业长期发展",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.9,
+    "major_match": "高",
+    "internship_count": 1,
+    "internship_relevant": "相关",
+    "portfolio_count": 0,
+    "portfolio_score": 1,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划04",
+   "position": "策划",
+   "label": "未通过",
+   "name": "黄书瑶",
+   "content": "# 黄书瑶 · 应聘：游戏策划（2026届）\n- 电话：13586492083\n- 邮箱：user24346@163.com\n- 意向城市：广州\n\n## 教育背景\n- **浙江大学** · 数字媒体技术（本科 2022-2026）· GPA 3.6/4.0（前 10%）\n\n## 技能\n- Tableau / SQL 基础 / 文案撰写 / Figma\n\n## 自我评价\n- 性格活泼开朗，沟通能力良好，希望在游戏行业长期发展\n- 学习能力强，吃苦耐劳，对游戏行业充满热情",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.6,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划05",
+   "position": "策划",
+   "label": "未通过",
+   "name": "马沐阳",
+   "content": "# 马沐阳 · 应聘：游戏策划（2026届）\n- 电话：18371678684\n- 邮箱：user38204@163.com\n- 意向城市：深圳\n\n## 教育背景\n- **浙江工业大学** · 心理学（本科 2022-2026）· GPA 2.9/4.0（前 50%）\n\n## 技能\n- Axure / Tableau / 文案撰写\n\n## 自我评价\n- 性格活泼开朗，沟通能力良好，希望在游戏行业长期发展\n- 学习能力强，吃苦耐劳，对游戏行业充满热情",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 2.9,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划06",
+   "position": "策划",
+   "label": "未通过",
+   "name": "郭子涵",
+   "content": "# 郭子涵 · 应聘：游戏策划（2026届）\n- 电话：13722470455\n- 邮箱：user81706@qq.com\n- 意向城市：成都\n\n## 教育背景\n- **南京师范大学** · 数字媒体技术（本科 2022-2026）· GPA 3.6/4.0（前 40%）\n- 相关课程：游戏心理学 成绩优异\n\n## 实习经历\n- **优品电商 · 市场实习**\n  - 协助 618 大促页面策划与数据复盘\n\n## 技能\n- Excel 数据分析 / Figma / SQL 基础 / Axure / 文案撰写\n\n## 自我评价\n- 学习能力强，吃苦耐劳，对游戏行业充满热情\n- 做事认真负责，抗压能力强，服从安排",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.6,
+    "major_match": "中",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划07",
+   "position": "策划",
+   "label": "未通过",
+   "name": "杨望舒",
+   "content": "# 杨望舒 · 应聘：游戏策划（2027届）\n- 电话：19296572492\n- 邮箱：user15739@126.com\n- 意向城市：南京\n\n## 教育背景\n- **杭州电子科技大学** · 广告学（本科 2022-2026）· GPA 3.1/4.0（前 10%）\n\n## 技能\n- Axure / Unity 基础 / 文案撰写 / SQL 基础 / Figma\n\n## 自我评价\n- 学习能力强，吃苦耐劳，对游戏行业充满热情",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.1,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划08",
+   "position": "策划",
+   "label": "未通过",
+   "name": "刘芳",
+   "content": "# 刘芳 · 应聘：游戏策划（2027届）\n- 电话：19374071881\n- 邮箱：user96415@126.com\n- 意向城市：北京\n\n## 教育背景\n- **河海大学** · 数字媒体技术（本科 2022-2026）· GPA 3.3/4.0（前 50%）\n\n## 技能\n- Tableau / Excel 数据分析 / Unity 基础\n\n## 自我评价\n- 性格活泼开朗，沟通能力良好，希望在游戏行业长期发展",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.3,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划09",
+   "position": "策划",
+   "label": "未通过",
+   "name": "吴欣怡",
+   "content": "# 吴欣怡 · 应聘：游戏策划（2027届）\n- 电话：17499207074\n- 邮箱：user98080@163.com\n- 意向城市：成都\n\n## 教育背景\n- **安徽大学** · 新闻学（本科 2022-2026）· GPA 3.0/4.0（前 40%）\n- 相关课程：游戏设计基础 成绩优异\n\n## 技能\n- Excel 数据分析 / Xmind / Axure / Tableau / 文案撰写\n\n## 自我评价\n- 性格活泼开朗，沟通能力良好，希望在游戏行业长期发展\n- 学习能力强，吃苦耐劳，对游戏行业充满热情",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.0,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划10",
+   "position": "策划",
+   "label": "未通过",
+   "name": "杨军",
+   "content": "# 杨军 · 应聘：游戏策划（2026届）\n- 电话：19452984153\n- 邮箱：user75259@qq.com\n- 意向城市：武汉\n\n## 教育背景\n- **西安交通大学** · 广告学（本科 2022-2026）· GPA 3.7/4.0（前 40%）\n- 相关课程：游戏设计基础 成绩优异\n\n## 技能\n- Unity 基础 / Xmind / Excel 数据分析\n\n## 自我评价\n- 学习能力强，吃苦耐劳，对游戏行业充满热情\n- 性格活泼开朗，沟通能力良好，希望在游戏行业长期发展",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.7,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划11",
+   "position": "策划",
+   "label": "未通过",
+   "name": "罗雪",
+   "content": "# 罗雪 · 应聘：游戏策划（2027届）\n- 电话：17166915640\n- 邮箱：user46783@163.com\n- 意向城市：上海\n\n## 教育背景\n- **西安邮电大学** · 市场营销（本科 2022-2026）· GPA 2.9/4.0（前 20%）\n\n## 技能\n- 文案撰写 / Unity 基础 / Excel 数据分析\n\n## 自我评价\n- 做事认真负责，抗压能力强，服从安排",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 2.9,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划12",
+   "position": "策划",
+   "label": "未通过",
+   "name": "冯沐宸",
+   "content": "# 冯沐宸 · 应聘：游戏策划（2027届）\n- 电话：19247082276\n- 邮箱：user55044@qq.com\n- 意向城市：广州\n\n## 教育背景\n- **西安邮电大学** · 汉语言文学（本科 2022-2026）· GPA 3.2/4.0（前 40%）\n\n## 实习经历\n- **优品电商 · 市场实习**\n  - 协助 618 大促页面策划与数据复盘\n\n## 技能\n- Unity 基础 / Axure / Figma / 文案撰写 / Tableau",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.2,
+    "major_match": "中",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划13",
+   "position": "策划",
+   "label": "未通过",
+   "name": "曹若曦",
+   "content": "# 曹若曦 · 应聘：游戏策划（2026届）\n- 电话：15833125815\n- 邮箱：user41342@qq.com\n- 意向城市：广州\n\n## 教育背景\n- **北京邮电大学** · 市场营销（本科 2022-2026）· GPA 3.0/4.0（前 50%）\n\n## 技能\n- SQL 基础 / Xmind / Axure / Excel 数据分析",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.0,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划14",
+   "position": "策划",
+   "label": "未通过",
+   "name": "朱磊",
+   "content": "# 朱磊 · 应聘：游戏策划（2027届）\n- 电话：17366764020\n- 邮箱：user65731@126.com\n- 意向城市：西安\n\n## 教育背景\n- **北京邮电大学** · 软件工程（本科 2022-2026）· GPA 3.9/4.0（前 40%）\n- 相关课程：数据结构 成绩优异\n\n## 技能\n- Tableau / Figma / Axure / Unity 基础\n\n## 自我评价\n- 学习能力强，吃苦耐劳，对游戏行业充满热情",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.9,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划15",
+   "position": "策划",
+   "label": "未通过",
+   "name": "周超",
+   "content": "# 周超 · 应聘：游戏策划（2026届）\n- 电话：19042486111\n- 邮箱：user49367@126.com\n- 意向城市：重庆\n\n## 教育背景\n- **武汉理工大学** · 数字媒体技术（本科 2022-2026）· GPA 3.8/4.0（前 40%）\n\n## 游戏经历与作品\n- **个人随笔**\n  - 写过几篇游戏感想发布在个人账号，反响一般\n\n## 技能\n- SQL 基础 / Xmind / 文案撰写 / Figma\n\n## 自我评价\n- 做事认真负责，抗压能力强，服从安排\n- 学习能力强，吃苦耐劳，对游戏行业充满热情",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.8,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 1,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划16",
+   "position": "策划",
+   "label": "未通过",
+   "name": "李涛",
+   "content": "# 李涛 · 应聘：游戏策划（2027届）\n- 电话：18614365370\n- 邮箱：user54309@126.com\n- 意向城市：武汉\n\n## 教育背景\n- **广东工业大学** · 新闻学（本科 2022-2026）· GPA 3.5/4.0（前 30%）\n- 相关课程：概率论 成绩优异\n\n## 技能\n- Excel 数据分析 / Tableau / Figma\n\n## 自我评价\n- 学习能力强，吃苦耐劳，对游戏行业充满热情\n- 做事认真负责，抗压能力强，服从安排",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.5,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划17",
+   "position": "策划",
+   "label": "未通过",
+   "name": "孙超",
+   "content": "# 孙超 · 应聘：游戏策划（2026届）\n- 电话：18609260309\n- 邮箱：user28600@qq.com\n- 意向城市：上海\n\n## 教育背景\n- **电子科技大学** · 工商管理（本科 2022-2026）· GPA 3.9/4.0（前 10%）\n\n## 技能\n- Xmind / Tableau / Figma\n\n## 自我评价\n- 做事认真负责，抗压能力强，服从安排",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.9,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划18",
+   "position": "策划",
+   "label": "未通过",
+   "name": "唐欣怡",
+   "content": "# 唐欣怡 · 应聘：游戏策划（2027届）\n- 电话：18210141561\n- 邮箱：user83548@163.com\n- 意向城市：武汉\n\n## 教育背景\n- **武汉理工大学** · 心理学（本科 2022-2026）· GPA 3.1/4.0（前 10%）\n\n## 实习经历\n- **某快消品牌 · 市场助理实习**\n  - 参与新品上市调研，回收问卷 800+ 份\n\n## 游戏经历与作品\n- **课程作业**\n  - 课程作业：完成一份简单的游戏策划案框架（未落地）\n\n## 技能\n- Excel 数据分析 / Xmind / Unity 基础 / Tableau\n\n## 自我评价\n- 做事认真负责，抗压能力强，服从安排",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.1,
+    "major_match": "中",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 1,
+    "portfolio_score": 1,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": []
+   }
+  },
+  {
+   "id": "策划19",
+   "position": "策划",
+   "label": "未通过",
+   "name": "刘雪",
+   "content": "# 刘雪 · 应聘：游戏策划（2026届）\n- 电话：15195545904\n- 邮箱：user51482@qq.com\n- 意向城市：广州\n\n## 教育背景\n- **成都信息工程大学** · 计算机科学与技术（本科 2022-2026）· GPA 3.3/4.0（前 40%）\n- 相关课程：游戏心理学 成绩优异\n\n## 技能\n- Excel 数据分析 / Axure / Tableau",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.3,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划20",
+   "position": "策划",
+   "label": "未通过",
+   "name": "郭浩然",
+   "content": "# 郭浩然 · 应聘：游戏策划（2027届）\n- 电话：17759183623\n- 邮箱：user63445@163.com\n- 意向城市：上海\n\n## 教育背景\n- **广东工业大学** · 计算机科学与技术（本科 2022-2026）· GPA 3.6/4.0（前 40%）\n\n## 实习经历\n- **青云科技 · 用户运营实习**\n  - 负责社群日常维护与活动策划\n  - 撰写推文 30+，单篇最高阅读 1.2 万\n\n## 技能\n- Figma / Tableau / Axure / Excel 数据分析",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.6,
+    "major_match": "高",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "策划21",
+   "position": "策划",
+   "label": "未通过",
+   "name": "郭亦辰",
+   "content": "# 郭亦辰 · 应聘：游戏策划（2026届）\n- 电话：13444945443\n- 邮箱：user67592@163.com\n- 意向城市：杭州\n\n## 教育背景\n- **北京邮电大学** · 工商管理（本科 2022-2026）· GPA 3.9/4.0（前 10%）\n- 相关课程：操作系统 成绩优异\n\n## 技能\n- SQL 基础 / Figma / Tableau / 文案撰写",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.9,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序01",
+   "position": "程序",
+   "label": "通过",
+   "name": "胡沐宸",
+   "content": "# 胡沐宸 · 应聘：游戏程序（2026届）\n- 电话：17043103993\n- 邮箱：user19845@qq.com\n- 意向城市：南京\n\n## 教育背景\n- **南京师范大学** · 数学与应用数学（本科 2022-2026）· GPA 3.5/4.0（前 20%）\n\n## 项目与作品\n- **Unity 2D 横版动作游戏《风行者》**\n  - 实现战斗状态机与手感调优，独立完成碰撞检测与相机跟随\n  - GitHub 开源 300+ star，B 站演示视频播放 8 万\n\n## 技能\n- Lua / C++ / Unreal Engine / MySQL / C#",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.5,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 5,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序02",
+   "position": "程序",
+   "label": "通过",
+   "name": "冯一诺",
+   "content": "# 冯一诺 · 应聘：游戏程序（2026届）\n- 电话：15941307871\n- 邮箱：user63499@163.com\n- 意向城市：武汉\n\n## 教育背景\n- **广东工业大学** · 自动化（本科 2022-2026）· GPA 3.5/4.0（前 40%）\n- 相关课程：数据结构 成绩优异\n\n## 实习经历\n- **蜂鸟互动 · C++ 服务器实习**\n  - 负责技能伤害结算模块，支撑单日 10 万场对局\n  - 参与战斗服性能优化，延迟降低 12%\n\n## 项目与作品\n- **软光栅化渲染器**\n  - 实现纹理映射、Phong 光照与 z-buffer\n  - 课程大作业获最高分并入选系部年度展示\n\n## 技能\n- Unity / OpenGL / C++ / Redis / Unreal Engine / 数据结构与算法\n\n## 自我评价\n- 习惯先写设计文档再动手，代码洁癖，注释完整\n- 保持每周刷题与读源码的习惯",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.5,
+    "major_match": "中",
+    "internship_count": 1,
+    "internship_relevant": "垂直",
+    "portfolio_count": 1,
+    "portfolio_score": 4,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）",
+     "有游戏公司同岗位实习经历"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序03",
+   "position": "程序",
+   "label": "通过",
+   "name": "徐若曦",
+   "content": "# 徐若曦 · 应聘：游戏程序（2026届）\n- 电话：13169572200\n- 邮箱：user82292@163.com\n- 意向城市：武汉\n\n## 教育背景\n- **深圳大学** · 网络工程（本科 2022-2026）· GPA 3.6/4.0（前 40%）\n- 相关课程：概率论 成绩优异\n\n## 实习经历\n- **星澜游戏 · 游戏客户端实习（Unity）**\n  - 负责背包与强化系统 UI 重构，封装通用组件减少 30% 重复代码\n\n## 项目与作品\n- **Godot 引擎开源贡献**\n  - 提交 3 个 PR，修复编辑器内存泄漏与导出 bug\n- **WebSocket 实时对战小游戏**\n  - 实现服务端权威架构与客户端预测\n\n## 技能\n- C# / OpenGL / 数据结构与算法 / Lua\n\n## 自我评价\n- 对游戏技术有执念：为了调好一个打击感可以连续打磨一周\n- 保持每周刷题与读源码的习惯",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.6,
+    "major_match": "中",
+    "internship_count": 1,
+    "internship_relevant": "垂直",
+    "portfolio_count": 2,
+    "portfolio_score": 5,
+    "skills_match": "中",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）",
+     "有游戏公司同岗位实习经历"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序04",
+   "position": "程序",
+   "label": "通过",
+   "name": "徐超",
+   "content": "# 徐超 · 应聘：游戏程序（2027届）\n- 电话：19693729306\n- 邮箱：user77881@163.com\n- 意向城市：武汉\n\n## 教育背景\n- **华中科技大学** · 自动化（本科 2022-2026）· GPA 3.1/4.0（前 40%）\n\n## 项目与作品\n- **Unity 2D 横版动作游戏《风行者》**\n  - 实现战斗状态机与手感调优，独立完成碰撞检测与相机跟随\n  - GitHub 开源 300+ star，B 站演示视频播放 8 万\n\n## 技能\n- C++ / Unreal Engine / C# / OpenGL / Unity / Lua\n\n## 自我评价\n- 保持每周刷题与读源码的习惯\n- 习惯先写设计文档再动手，代码洁癖，注释完整",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.1,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 5,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序05",
+   "position": "程序",
+   "label": "通过",
+   "name": "曹娟",
+   "content": "# 曹娟 · 应聘：游戏程序（2026届）\n- 电话：13097737972\n- 邮箱：user72025@qq.com\n- 意向城市：北京\n\n## 教育背景\n- **东南大学** · 数学与应用数学（本科 2022-2026）· GPA 3.3/4.0（前 10%）\n- 相关课程：操作系统 成绩优异\n\n## 实习经历\n- **星澜游戏 · 游戏客户端实习（Unity）**\n  - 负责背包与强化系统 UI 重构，封装通用组件减少 30% 重复代码\n\n## 项目与作品\n- **Unity 2D 横版动作游戏《风行者》**\n  - 实现战斗状态机与手感调优，独立完成碰撞检测与相机跟随\n  - GitHub 开源 300+ star，B 站演示视频播放 8 万\n- **软光栅化渲染器**\n  - 实现纹理映射、Phong 光照与 z-buffer\n  - 课程大作业获最高分并入选系部年度展示\n\n## 技能\n- Unreal Engine / MySQL / C# / C++\n\n## 自我评价\n- 保持每周刷题与读源码的习惯\n- 对游戏技术有执念：为了调好一个打击感可以连续打磨一周",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.3,
+    "major_match": "高",
+    "internship_count": 1,
+    "internship_relevant": "垂直",
+    "portfolio_count": 2,
+    "portfolio_score": 4,
+    "skills_match": "中",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）",
+     "有游戏公司同岗位实习经历"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序06",
+   "position": "程序",
+   "label": "通过",
+   "name": "陈梓萱",
+   "content": "# 陈梓萱 · 应聘：游戏程序（2027届）\n- 电话：19425947248\n- 邮箱：user72928@163.com\n- 意向城市：重庆\n\n## 教育背景\n- **西安邮电大学** · 网络工程（本科 2022-2026）· GPA 3.5/4.0（前 50%）\n\n## 项目与作品\n- **Game Jam 作品《循环车站》程序负责人**\n  - 48 小时完成核心系统与 3 个关卡\n- **Unity 2D 横版动作游戏《风行者》**\n  - 实现战斗状态机与手感调优，独立完成碰撞检测与相机跟随\n  - GitHub 开源 300+ star，B 站演示视频播放 8 万\n\n## 技能\n- Redis / Unreal Engine / OpenGL / Python / MySQL",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.5,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 2,
+    "portfolio_score": 5,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序07",
+   "position": "程序",
+   "label": "通过",
+   "name": "何亦辰",
+   "content": "# 何亦辰 · 应聘：游戏程序（2026届）\n- 电话：18546592551\n- 邮箱：user67970@163.com\n- 意向城市：杭州\n\n## 教育背景\n- **安徽大学** · 软件工程（本科 2022-2026）· GPA 3.7/4.0（前 50%）\n\n## 项目与作品\n- **Game Jam 作品《循环车站》程序负责人**\n  - 48 小时完成核心系统与 3 个关卡\n  - 负责帧同步联机模块，作品获站点最佳技术奖\n- **Godot 引擎开源贡献**\n  - 提交 3 个 PR，修复编辑器内存泄漏与导出 bug\n\n## 技能\n- C++ / Redis / Lua / Python / 数据结构与算法\n\n## 自我评价\n- 习惯先写设计文档再动手，代码洁癖，注释完整\n- 保持每周刷题与读源码的习惯",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.7,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 2,
+    "portfolio_score": 4,
+    "skills_match": "高",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序08",
+   "position": "程序",
+   "label": "通过",
+   "name": "王景行",
+   "content": "# 王景行 · 应聘：游戏程序（2027届）\n- 电话：17418583694\n- 邮箱：user87213@163.com\n- 意向城市：成都\n\n## 教育背景\n- **重庆邮电大学** · 自动化（本科 2022-2026）· GPA 3.3/4.0（前 30%）\n\n## 项目与作品\n- **C++ 2D 迷你游戏引擎**\n  - 从零实现渲染（OpenGL）、物理（AABB）与 ECS 架构\n  - 配套博客系列累计阅读 2 万，被多个技术社区收录\n- **算法竞赛**\n  - ACM 区域赛铜牌，Codeforces 峰值 1900\n  - 蓝桥杯全国二等奖\n\n## 技能\n- Lua / Python / 数据结构与算法 / C#\n\n## 自我评价\n- 对游戏技术有执念：为了调好一个打击感可以连续打磨一周",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.3,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 2,
+    "portfolio_score": 4,
+    "skills_match": "中",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序09",
+   "position": "程序",
+   "label": "通过",
+   "name": "宋清让",
+   "content": "# 宋清让 · 应聘：游戏程序（2026届）\n- 电话：19798732000\n- 邮箱：user79668@163.com\n- 意向城市：武汉\n\n## 教育背景\n- **西安邮电大学** · 网络工程（本科 2022-2026）· GPA 3.2/4.0（前 50%）\n\n## 项目与作品\n- **算法竞赛**\n  - ACM 区域赛铜牌，Codeforces 峰值 1900\n  - 蓝桥杯全国二等奖\n\n## 技能\n- C++ / Git / MySQL / Lua\n\n## 自我评价\n- 对游戏技术有执念：为了调好一个打击感可以连续打磨一周",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.2,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 5,
+    "skills_match": "中",
+    "highlights": [
+     "有突出的游戏作品/项目（Game Jam/独立开发/开源项目）"
+    ],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序01",
+   "position": "程序",
+   "label": "未通过",
+   "name": "孙沐阳",
+   "content": "# 孙沐阳 · 应聘：游戏程序（2026届）\n- 电话：17140780667\n- 邮箱：user20548@126.com\n- 意向城市：西安\n\n## 教育背景\n- **北京邮电大学** · 自动化（本科 2022-2026）· GPA 3.8/4.0（前 50%）\n\n## 实习经历\n- **青云科技 · 后端开发实习**\n  - 负责订单服务接口开发与单元测试，QPS 峰值 2000\n\n## 技能\n- C# / Unreal Engine / Unity / C++ / Python\n\n## 自我评价\n- 沟通顺畅，能快速融入团队",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.8,
+    "major_match": "低",
+    "internship_count": 1,
+    "internship_relevant": "相关",
+    "portfolio_count": 0,
+    "portfolio_score": 1,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序02",
+   "position": "程序",
+   "label": "未通过",
+   "name": "司马伟",
+   "content": "# 司马伟 · 应聘：游戏程序（2027届）\n- 电话：15433253659\n- 邮箱：user41348@qq.com\n- 意向城市：南京\n\n## 教育背景\n- **复旦大学** · 网络工程（本科 2022-2026）· GPA 3.8/4.0（前 20%）\n- 相关课程：数据结构 成绩优异\n\n## 实习经历\n- **青云科技 · 后端开发实习**\n  - 负责订单服务接口开发与单元测试，QPS 峰值 2000\n\n## 技能\n- OpenGL / Lua / Unity / Git / 数据结构与算法\n\n## 自我评价\n- 沟通顺畅，能快速融入团队",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.8,
+    "major_match": "低",
+    "internship_count": 1,
+    "internship_relevant": "相关",
+    "portfolio_count": 0,
+    "portfolio_score": 1,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序03",
+   "position": "程序",
+   "label": "未通过",
+   "name": "徐梓萱",
+   "content": "# 徐梓萱 · 应聘：游戏程序（2026届）\n- 电话：15000201019\n- 邮箱：user57632@163.com\n- 意向城市：南京\n\n## 教育背景\n- **复旦大学** · 信息安全（本科 2022-2026）· GPA 3.9/4.0（前 30%）\n\n## 实习经历\n- **云帆信息 · 软件开发实习**\n  - 参与数据中台 ETL 脚本维护\n\n## 技能\n- Lua / Redis / Git / C# / C++\n\n## 自我评价\n- 基础扎实，学习能力强，服从团队安排",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.9,
+    "major_match": "低",
+    "internship_count": 1,
+    "internship_relevant": "相关",
+    "portfolio_count": 0,
+    "portfolio_score": 1,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序04",
+   "position": "程序",
+   "label": "未通过",
+   "name": "朱子涵",
+   "content": "# 朱子涵 · 应聘：游戏程序（2027届）\n- 电话：17564054405\n- 邮箱：user52051@126.com\n- 意向城市：南京\n\n## 教育背景\n- **南京师范大学** · 信息安全（本科 2022-2026）· GPA 2.8/4.0（前 30%）\n- 相关课程：数据结构 成绩优异\n\n## 技能\n- Unreal Engine / 数据结构与算法 / C++\n\n## 自我评价\n- 沟通顺畅，能快速融入团队",
+   "features": {
+    "school_tier": "211",
+    "gpa": 2.8,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序05",
+   "position": "程序",
+   "label": "未通过",
+   "name": "罗敏",
+   "content": "# 罗敏 · 应聘：游戏程序（2027届）\n- 电话：13571727958\n- 邮箱：user44154@126.com\n- 意向城市：杭州\n\n## 教育背景\n- **山东大学** · 数学与应用数学（本科 2022-2026）· GPA 2.9/4.0（前 10%）\n\n## 项目与作品\n- **贪吃蛇小游戏**\n  - 跟随网课练习开发，未完整收尾\n\n## 技能\n- MySQL / C# / Unreal Engine / Redis\n\n## 自我评价\n- 对编程有浓厚兴趣，愿意加班完成交付",
+   "features": {
+    "school_tier": "985",
+    "gpa": 2.9,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 1,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序06",
+   "position": "程序",
+   "label": "未通过",
+   "name": "唐明",
+   "content": "# 唐明 · 应聘：游戏程序（2026届）\n- 电话：17468826372\n- 邮箱：user79670@126.com\n- 意向城市：重庆\n\n## 教育背景\n- **江南大学** · 自动化（本科 2022-2026）· GPA 3.1/4.0（前 20%）\n\n## 技能\n- Unreal Engine / Python / 数据结构与算法 / MySQL / Redis\n\n## 自我评价\n- 沟通顺畅，能快速融入团队\n- 基础扎实，学习能力强，服从团队安排",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.1,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序07",
+   "position": "程序",
+   "label": "未通过",
+   "name": "吴军",
+   "content": "# 吴军 · 应聘：游戏程序（2026届）\n- 电话：15598523534\n- 邮箱：user23343@163.com\n- 意向城市：北京\n\n## 教育背景\n- **苏州大学** · 计算机科学与技术（本科 2022-2026）· GPA 3.6/4.0（前 40%）\n\n## 实习经历\n- **云帆信息 · 软件开发实习**\n  - 参与数据中台 ETL 脚本维护\n\n## 技能\n- C# / Redis / Unity\n\n## 自我评价\n- 对编程有浓厚兴趣，愿意加班完成交付",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.6,
+    "major_match": "中",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序08",
+   "position": "程序",
+   "label": "未通过",
+   "name": "胡沐阳",
+   "content": "# 胡沐阳 · 应聘：游戏程序（2026届）\n- 电话：17702496036\n- 邮箱：user85232@126.com\n- 意向城市：武汉\n\n## 教育背景\n- **浙江工业大学** · 自动化（本科 2022-2026）· GPA 3.3/4.0（前 20%）\n\n## 技能\n- Redis / Python / C#\n\n## 自我评价\n- 对编程有浓厚兴趣，愿意加班完成交付\n- 沟通顺畅，能快速融入团队",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.3,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序09",
+   "position": "程序",
+   "label": "未通过",
+   "name": "徐雪",
+   "content": "# 徐雪 · 应聘：游戏程序（2026届）\n- 电话：18770968250\n- 邮箱：user60948@qq.com\n- 意向城市：北京\n\n## 教育背景\n- **江南大学** · 网络工程（本科 2022-2026）· GPA 3.6/4.0（前 30%）\n\n## 技能\n- Unreal Engine / C# / 数据结构与算法 / Lua / Redis",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.6,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序10",
+   "position": "程序",
+   "label": "未通过",
+   "name": "朱娟",
+   "content": "# 朱娟 · 应聘：游戏程序（2027届）\n- 电话：18819504466\n- 邮箱：user18061@163.com\n- 意向城市：北京\n\n## 教育背景\n- **上海大学** · 信息安全（本科 2022-2026）· GPA 3.2/4.0（前 20%）\n\n## 实习经历\n- **云帆信息 · 软件开发实习**\n  - 参与数据中台 ETL 脚本维护\n\n## 技能\n- OpenGL / MySQL / Lua / Redis / Git\n\n## 自我评价\n- 基础扎实，学习能力强，服从团队安排",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.2,
+    "major_match": "高",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序11",
+   "position": "程序",
+   "label": "未通过",
+   "name": "胡军",
+   "content": "# 胡军 · 应聘：游戏程序（2027届）\n- 电话：17674827534\n- 邮箱：user59302@126.com\n- 意向城市：广州\n\n## 教育背景\n- **杭州电子科技大学** · 电子信息工程（本科 2022-2026）· GPA 3.5/4.0（前 40%）\n- 相关课程：概率论 成绩优异\n\n## 实习经历\n- **青云科技 · 后端开发实习**\n  - 负责订单服务接口开发与单元测试，QPS 峰值 2000\n\n## 技能\n- Unity / Unreal Engine / 数据结构与算法 / MySQL / Lua",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.5,
+    "major_match": "中",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序12",
+   "position": "程序",
+   "label": "未通过",
+   "name": "周晚晴",
+   "content": "# 周晚晴 · 应聘：游戏程序（2026届）\n- 电话：17900314491\n- 邮箱：user85823@163.com\n- 意向城市：成都\n\n## 教育背景\n- **武汉理工大学** · 网络工程（本科 2022-2026）· GPA 3.6/4.0（前 10%）\n\n## 技能\n- Git / Redis / C#\n\n## 自我评价\n- 基础扎实，学习能力强，服从团队安排\n- 对编程有浓厚兴趣，愿意加班完成交付",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.6,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序13",
+   "position": "程序",
+   "label": "未通过",
+   "name": "黄芊语",
+   "content": "# 黄芊语 · 应聘：游戏程序（2026届）\n- 电话：13463277807\n- 邮箱：user71222@163.com\n- 意向城市：西安\n\n## 教育背景\n- **上海大学** · 软件工程（本科 2022-2026）· GPA 3.7/4.0（前 30%）\n\n## 实习经历\n- **云帆信息 · 软件开发实习**\n  - 参与数据中台 ETL 脚本维护\n\n## 技能\n- Git / 数据结构与算法 / Unity / Redis\n\n## 自我评价\n- 对编程有浓厚兴趣，愿意加班完成交付\n- 沟通顺畅，能快速融入团队",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.7,
+    "major_match": "低",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序14",
+   "position": "程序",
+   "label": "未通过",
+   "name": "张欣怡",
+   "content": "# 张欣怡 · 应聘：游戏程序（2027届）\n- 电话：13877203625\n- 邮箱：user22381@126.com\n- 意向城市：深圳\n\n## 教育背景\n- **江南大学** · 网络工程（本科 2022-2026）· GPA 3.1/4.0（前 30%）\n\n## 实习经历\n- **云帆信息 · 软件开发实习**\n  - 参与数据中台 ETL 脚本维护\n\n## 技能\n- Unity / MySQL / C++ / Redis\n\n## 自我评价\n- 对编程有浓厚兴趣，愿意加班完成交付\n- 沟通顺畅，能快速融入团队",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.1,
+    "major_match": "中",
+    "internship_count": 1,
+    "internship_relevant": "无关",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序15",
+   "position": "程序",
+   "label": "未通过",
+   "name": "朱知远",
+   "content": "# 朱知远 · 应聘：游戏程序（2026届）\n- 电话：13535429106\n- 邮箱：user82652@qq.com\n- 意向城市：南京\n\n## 教育背景\n- **南京师范大学** · 数学与应用数学（本科 2022-2026）· GPA 3.5/4.0（前 10%）\n- 相关课程：操作系统 成绩优异\n\n## 项目与作品\n- **学生信息管理系统（课程设计）**\n  - Python + SQLite，完成基本功能\n\n## 技能\n- C++ / MySQL / Git / OpenGL / Unity\n\n## 自我评价\n- 沟通顺畅，能快速融入团队",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.5,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 1,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序16",
+   "position": "程序",
+   "label": "未通过",
+   "name": "孙娜",
+   "content": "# 孙娜 · 应聘：游戏程序（2026届）\n- 电话：18105248442\n- 邮箱：user65284@163.com\n- 意向城市：深圳\n\n## 教育背景\n- **福州大学** · 网络工程（本科 2022-2026）· GPA 3.1/4.0（前 50%）\n\n## 技能\n- C++ / C# / OpenGL / MySQL / Lua\n\n## 自我评价\n- 基础扎实，学习能力强，服从团队安排",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.1,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序17",
+   "position": "程序",
+   "label": "未通过",
+   "name": "吴星辰",
+   "content": "# 吴星辰 · 应聘：游戏程序（2026届）\n- 电话：18811732060\n- 邮箱：user11222@126.com\n- 意向城市：北京\n\n## 教育背景\n- **同济大学** · 数学与应用数学（本科 2022-2026）· GPA 2.9/4.0（前 40%）\n\n## 项目与作品\n- **贪吃蛇小游戏**\n  - 跟随网课练习开发，未完整收尾\n\n## 技能\n- Python / C++ / Unreal Engine / Redis",
+   "features": {
+    "school_tier": "985",
+    "gpa": 2.9,
+    "major_match": "低",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 1,
+    "skills_match": "中",
+    "highlights": [],
+    "risks": []
+   }
+  },
+  {
+   "id": "程序18",
+   "position": "程序",
+   "label": "未通过",
+   "name": "何敏",
+   "content": "# 何敏 · 应聘：游戏程序（2026届）\n- 电话：13000916449\n- 邮箱：user31757@qq.com\n- 意向城市：重庆\n\n## 教育背景\n- **河海大学** · 信息安全（本科 2022-2026）· GPA 3.7/4.0（前 50%）\n\n## 技能\n- C# / Unreal Engine / Python\n\n## 自我评价\n- 对编程有浓厚兴趣，愿意加班完成交付\n- 沟通顺畅，能快速融入团队",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.7,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序19",
+   "position": "程序",
+   "label": "未通过",
+   "name": "谢清让",
+   "content": "# 谢清让 · 应聘：游戏程序（2027届）\n- 电话：13294963666\n- 邮箱：user88876@163.com\n- 意向城市：西安\n\n## 教育背景\n- **西安邮电大学** · 计算机科学与技术（本科 2022-2026）· GPA 3.6/4.0（前 50%）\n\n## 技能\n- Unity / Python / Git",
+   "features": {
+    "school_tier": "双非",
+    "gpa": 3.6,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "低",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序20",
+   "position": "程序",
+   "label": "未通过",
+   "name": "马超",
+   "content": "# 马超 · 应聘：游戏程序（2027届）\n- 电话：17906734906\n- 邮箱：user70256@126.com\n- 意向城市：北京\n\n## 教育背景\n- **南京大学** · 信息安全（本科 2022-2026）· GPA 3.7/4.0（前 30%）\n\n## 技能\n- Unreal Engine / 数据结构与算法 / MySQL / Lua / C#\n\n## 自我评价\n- 基础扎实，学习能力强，服从团队安排",
+   "features": {
+    "school_tier": "985",
+    "gpa": 3.7,
+    "major_match": "高",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 0,
+    "portfolio_score": 0,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": [
+     "无任何可验证的作品/项目产出"
+    ]
+   }
+  },
+  {
+   "id": "程序21",
+   "position": "程序",
+   "label": "未通过",
+   "name": "韩晚晴",
+   "content": "# 韩晚晴 · 应聘：游戏程序（2027届）\n- 电话：15307515712\n- 邮箱：user51391@126.com\n- 意向城市：上海\n\n## 教育背景\n- **苏州大学** · 电子信息工程（本科 2022-2026）· GPA 3.5/4.0（前 20%）\n\n## 项目与作品\n- **贪吃蛇小游戏**\n  - 跟随网课练习开发，未完整收尾\n\n## 技能\n- Lua / Unity / Git / OpenGL / C++\n\n## 自我评价\n- 沟通顺畅，能快速融入团队\n- 基础扎实，学习能力强，服从团队安排",
+   "features": {
+    "school_tier": "211",
+    "gpa": 3.5,
+    "major_match": "中",
+    "internship_count": 0,
+    "internship_relevant": "无",
+    "portfolio_count": 1,
+    "portfolio_score": 1,
+    "skills_match": "高",
+    "highlights": [],
+    "risks": []
+   }
+  }
+ ],
+ "narratives": {
+  "策划": "### 📌 策划岗优质候选人画像（基于 30 份历史简历：9 通过 / 21 未通过）\n\n**一、共性特征（基本盘）**\n- 拥有可验证的游戏作品是**最强单一预测因子**：通过组有作品率 100%，未通过组仅 10%\n- 通过组作品质量均分 **4.6/5**，未通过组仅 0.2/5\n\n**二、区分性特征（加分项）**\n- 垂直实习（游戏公司同岗位）：通过组 22% vs 未通过组 0%\n- 技能匹配度与作品类型相关性高于证书/奖项\n\n**三、反直觉发现 ⚡**\n- **学历与通过结果弱相关甚至负相关**：通过组 985 占比 22%，未通过组反而 43%\n- **GPA 几乎无区分度**：通过组平均 3.38 vs 未通过组 3.47\n- 被旧标准（名校或高 GPA 即过筛）误杀的实际通过者共 3 人（33%），他们全部有突出作品",
+  "程序": "### 📌 程序岗优质候选人画像（基于 30 份历史简历：9 通过 / 21 未通过）\n\n**一、共性特征（基本盘）**\n- 拥有可验证的游戏作品是**最强单一预测因子**：通过组有作品率 100%，未通过组仅 19%\n- 通过组作品质量均分 **4.6/5**，未通过组仅 0.3/5\n\n**二、区分性特征（加分项）**\n- 垂直实习（游戏公司同岗位）：通过组 33% vs 未通过组 0%\n- 技能匹配度与作品类型相关性高于证书/奖项\n\n**三、反直觉发现 ⚡**\n- **学历与通过结果弱相关甚至负相关**：通过组 985 占比 22%，未通过组反而 29%\n- **GPA 几乎无区分度**：通过组平均 3.41 vs 未通过组 3.42\n- 被旧标准（名校或高 GPA 即过筛）误杀的实际通过者共 4 人（44%），他们全部有突出作品"
+ },
+ "killed_by_old": {
+  "策划": [
+   "策划05",
+   "策划08",
+   "策划09"
+  ],
+  "程序": [
+   "程序02",
+   "程序06",
+   "程序08",
+   "程序09"
+  ]
+ },
+ "sample_jd": {
+  "策划": "游戏策划（2026 校招）\n\n岗位职责：\n1. 负责游戏系统与玩法的策划设计，输出策划文档\n2. 跟进功能开发落地，验收并迭代\n3. 分析玩家行为数据，持续优化体验\n\n任职要求：\n1. 985/211 本科及以上学历，专业不限\n2. GPA 3.5 以上\n3. 热爱游戏，游戏经验丰富\n4. 具备良好的沟通表达与文档能力",
+  "程序": "游戏客户端开发（2026 校招）\n\n岗位职责：\n1. 使用 Unity 开发游戏客户端功能\n2. 参与性能优化与版本维护\n\n任职要求：\n1. 985/211 本科及以上学历，计算机相关专业\n2. GPA 3.5 以上\n3. 熟悉 C# 与数据结构与算法\n4. 有团队协作精神，抗压能力强"
+ }
+}
